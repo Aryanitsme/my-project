@@ -1,0 +1,53 @@
+#colum1{
+    background-color: #bcdcff;
+    background-repeat: no-repeat;   
+}
+#colum2{
+    /* background-image: url(https://preview.colorlib.com/theme/onlineedu/assets/img/hero/heroman.png.webp); */
+    background-color: #bcdcff;
+    /* background-size: cover;    */
+}
+#bannerheading{
+    font-size: 6vw;
+}
+button{
+    background-color: #2d3092;
+    border: none;
+}
+#bg-color{
+    background-color: #2d3092;
+}
+#profile{
+   background-image: url(https://preview.colorlib.com/theme/onlineedu/assets/img/gallery/testimonial.png.webp);
+   width: 120px;
+   height: 150px;
+   background-repeat: no-repeat;
+}
+#btn{
+    background-color: #2d3092;
+}
+#card-Design a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);  
+}
+#card-Design:hover a{
+   
+    color: rgb(255, 255, 255);  
+}
+#card-Design{
+    border: 1px solid rgb(220, 219, 219);
+}
+#card-Design:hover{
+    background-color: #d48c8c;
+    color: white;
+    transition: all 1;
+}
+#basic-addon2{
+    background-color: #161717;
+    color: white;
+}
+#links a{
+   display: block;
+   text-decoration: none;
+   color: white;
+}
